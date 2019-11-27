@@ -1,7 +1,5 @@
 ## UAGA
-This is the code for *[Unsupervised Adversarial Graph Alignment with Graph Embedding](https://arxiv.org/pdf/1907.00544.pdf)*.
-
-Part of iUAGA's code will be updated later.
+This is the code for *[Unsupervised Adversarial Graph Alignment with Graph Embedding](https://arxiv.org/pdf/1907.00544.pdf)*.Part of iUAGA's code will be updated later.
 
 ## Dependencies
 * Python 2/3 with [NumPy](http://www.numpy.org/)/[SciPy](https://www.scipy.org/)
